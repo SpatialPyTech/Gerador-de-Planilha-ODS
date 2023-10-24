@@ -1,7 +1,4 @@
-# Gerador-de-Planilha-ODS
-Cria planilhas ODS
-
-# Fishnet (toolbox)
+# Gerador de Planilhas ODS (toolbox)
 
 - ✅ Recebe Feições como Input para sua execução.
 	- ✅ Recebe uma Feição de Polinha como Input (Gleba). A Feição utilizada deve ter um tabela de atributos no padrão necessário contendo colunas especificas
@@ -22,6 +19,17 @@ Este código em Python está relacionado à criação e execução de uma Toolbo
 - `Resultados`: Responsável por armazenar variáveis em escopos globais e locais.
 - `Toolbox`: Representa a própria Toolbox.
 - `OdsGenerator`: O script que será executado dentro da Toolbox, com acesso às funções, resultados e registro de log.
+
+### Imagem da Ferramenta
+![Ferramenta com inputs Fornecidos](https://github.com/SpatialPyTech/Gerador-de-Planilha-ODS/blob/main/Ferramenta%20Com%20Inputs%20Fornecidos.png)
+
+### Produtos Finais Gerados
+![Ferramenta com inputs Fornecidos](https://github.com/SpatialPyTech/Gerador-de-Planilha-ODS/blob/main/Produtos%20Finais%20Gerados.png)
+
+### Planilhas Preenchidas
+![Identificacao](https://github.com/SpatialPyTech/Gerador-de-Planilha-ODS/blob/main/Planilha_Identificacao%20Preenchida%20com%20Sucesso.png)
+
+![Perimetro](https://github.com/SpatialPyTech/Gerador-de-Planilha-ODS/blob/main/Planilha_Perimetro%20Preenchida%20com%20Sucesso.png)
 
 ## Como Usar
 Para usar este código, siga os passos abaixo:
